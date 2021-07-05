@@ -2,5 +2,5 @@
 
 ### :cloud: Hello Word !
 
-- :ledger: [Blog](http://blog.ggbeng.xyz)
-- :computer: [Site](http://www.ggbeng.xyz)
+- :ledger: [Blog](http://blog.ggbeng.site)
+- :computer: [Site](http://www.ggbeng.site)
