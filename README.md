@@ -12,7 +12,7 @@
        alt="snake" /></a>
 </div>
 <div>
-  ## 🧭 &nbsp;About Me
+  <h2>🧭 &nbsp;About Me</h2>
 
   - 🔭  I'm live in China, Xian , Gaoxin.
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **VUE3**, **GOlang**.
