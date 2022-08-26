@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://sunguoqi.com/">
+  <a href="http://www.ggbeng.shop">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello , I am GGbeng! &center=true&size=27">
   </a>
 </h1>
