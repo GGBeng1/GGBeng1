@@ -11,6 +11,15 @@
   <img  src="./assets/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
+<div>
+  ## 🧭 &nbsp;About Me
+
+  - 🔭  I'm live in China, Xian , Gaoxin.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **VUE3**, **GOlang**.
+  - ⚡ Fun fact: I'm a **full-stack developer**.
+
+  <br>
+</div>
 <div align="center">
 <a href="https://github.com/GGBeng1/Gantt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GGBeng1&repo=Gantt&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a>
