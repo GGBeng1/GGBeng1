@@ -1,8 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="http://www.ggbeng.shop">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,I am GGbeng!&center=true&size=27">
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+GGbeng" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
   <a href="http://www.ggbeng.shop"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
