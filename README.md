@@ -11,7 +11,6 @@
   <img  src="./assets/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
-<!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/GGBeng1/Gantt">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GGBeng1&repo=Gantt&theme=dark&bg_color=0d1117&hide_border=true" /></a>
