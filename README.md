@@ -14,8 +14,8 @@
 <div>
   <h2>🧭 &nbsp;About Me</h2>
 
-  - 🔭  I'm live in China, Xian , Gaoxin.
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **VUE3**, **GOlang**.
+  - 🔭 I live in China, Xian, Gaoxin now.
+  - 🌱 I always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **VUE3**, **Golang**.
   - ⚡ Fun fact: I'm a **full-stack developer**.
 
   <br>
