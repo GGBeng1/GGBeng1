@@ -23,7 +23,6 @@ jobs:
           outputs: |
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-            ./assets/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
