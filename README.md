@@ -30,10 +30,10 @@
   <div>
       <br/>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGBeng1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="GGBeng1 :: Top Langs" /></a>
+          <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=GGBeng1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="GGBeng1 :: Top Langs" /></a>
         </p>
         <p align="center">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GGBeng1&theme=gruvbox&hide_border=true" />
           </a>
        </p>
