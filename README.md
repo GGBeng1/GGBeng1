@@ -34,7 +34,7 @@
          </p> -->
          <p align="center">
            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true" />
-           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GGbeng1&theme=gruvbox&hide_border=true&&card_width=467" />
+           <img width="49.5%" src="https://streak-stats.demolab.com/?user=GGbeng1&theme=gruvbox&hide_border=true&&card_width=467" />
            </a>
         </p>
       <br>
