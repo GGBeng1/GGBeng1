@@ -26,12 +26,12 @@
  <a href="https://github.com/GGBeng1/vue-egg-admin">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GGBeng1&repo=vue-egg-admin&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a>
  </div>
-<!--  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&column=4" /> </div> -->
+ <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&column=4" /> </div>
    <div>
        <br/>
-         <p align="center">
+<!--          <p align="center">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGBeng1&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="GGBeng1 :: Top Langs" /></a>
-         </p>
+         </p> -->
          <p align="center">
            <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true" />
            <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GGbeng1&theme=gruvbox&hide_border=true&&card_width=467" />
