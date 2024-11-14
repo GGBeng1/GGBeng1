@@ -1,10 +1,10 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="http://www.ggbeng.shop"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+GGbeng" alt="Typing SVG" /></a>
+  <a href="http://www.ggbeng.today"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+GGbeng" alt="Typing SVG" /></a>
  </h1>
  <div align="center">
-   <a href="https://www.ggbeng.life/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-   <a href="https://www.ggbeng.life/blog/"><img src="https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+   <a href="https://www.ggbeng.today/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+   <a href="https://www.ggbeng.today/blog/"><img src="https://img.shields.io/badge/blog-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
    <a href="https://space.bilibili.com/4322520"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
  </div>
  <div align="center">
