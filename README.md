@@ -35,8 +35,8 @@
          <p align="center">
            <!-- <img width="49.5%" src="https://streak-stats.demolab.com/?user=GGbeng1&theme=gruvbox&hide_border=true&&card_width=467" /> -->
            <!-- </a> -->
-           <img width="49.5%" src="https://github-profile-trophy.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&column=4" />
-           <img width="49.5%" height=220 src="https://github-readme-stats.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true" />
+           <img width="49.5%" src="https://github-profile-trophy.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&column=4&card_width=467" />
+           <img width="49.5%" height=220 src="https://github-readme-stats.vercel.app/api?username=GGBeng1&show_icons=true&theme=gruvbox&hide_border=true&card_width=467" />
         </p>
       <br>
    </div>
