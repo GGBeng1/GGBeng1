@@ -4,7 +4,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1-5"
   workflow_dispatch:
 
 jobs:
@@ -24,6 +24,7 @@ jobs:
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Push to GitHub
+        if: ${{ github.event_name == 'schedule' && (github.run_number % 5 == 0 || github.run_number % 5 == 1 || github.run_number % 5 == 2) }}
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: master
