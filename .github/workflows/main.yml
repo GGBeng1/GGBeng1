@@ -11,7 +11,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -31,17 +31,17 @@ jobs:
             RANDOM_NUM=$(( $RANDOM % 5 + 1 ))
             # Decide to push if the random number is 1, 2, or 3
             if [[ $RANDOM_NUM -le 3 ]]; then
-              echo "::set-output name=should_push::true"
+              echo "should_push=true" >> $GITHUB_OUTPUT
             else
-              echo "::set-output name=should_push::false"
+              echo "should_push=false" >> $GITHUB_OUTPUT
             fi
           else
-            echo "::set-output name=should_push::false"
+            echo "should_push=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Push to GitHub
         if: steps.check-and-random.outputs.should_push == 'true'
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@v9
         with:
           branch: master
           message: 'Generate Contribution Snake'
