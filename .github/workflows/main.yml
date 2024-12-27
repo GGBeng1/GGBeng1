@@ -25,17 +25,28 @@ jobs:
       - name: Check weekday and random push
         id: check-and-random
         run: |
+          # Get current date
+          CURRENT_DATE=$(date '+%Y-%m-%d')
+          WEEKDAY=$(date +%u)
+          echo "Current date: $CURRENT_DATE"
+          echo "Current weekday: $WEEKDAY (1-5 is Mon-Fri)"
+          
           # Check if it's a weekday (1-5, Monday to Friday)
-          if [[ $(date +%u) -le 5 ]]; then
+          if [[ $WEEKDAY -le 5 ]]; then
+            echo "Today is a weekday"
             # Generate a random number between 1 and 5
             RANDOM_NUM=$(( $RANDOM % 5 + 1 ))
+            echo "Generated random number: $RANDOM_NUM"
             # Decide to push if the random number is 1, 2, or 3
             if [[ $RANDOM_NUM -le 3 ]]; then
+              echo "Random number <= 3, will push"
               echo "should_push=true" >> $GITHUB_OUTPUT
             else
+              echo "Random number > 3, will not push"
               echo "should_push=false" >> $GITHUB_OUTPUT
             fi
           else
+            echo "Today is weekend, will not push"
             echo "should_push=false" >> $GITHUB_OUTPUT
           fi
 
