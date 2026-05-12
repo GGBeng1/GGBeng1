@@ -26,7 +26,7 @@
  </div>
  <div align="center">
  <a href="https://github.com/GGBeng1/Gantt">
-   <img src="https://github-stats-extended.vercel.vercel.app/api/pin/?username=GGBeng1&repo=Gantt&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a>
+   <img src="https://github-stats-extended.vercel.app/api/pin/?username=GGBeng1&repo=Gantt&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a>
  <a href="https://github.com/GGBeng1/vue-egg-admin">
    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GGBeng1&repo=vue-egg-admin&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a>
  </div>
