@@ -31,7 +31,7 @@
    <img src="https://github-stats-extended.vercel.app/api/pin/?username=GGBeng1&repo=vue-egg-admin&theme=dark&bg_color=0d1117&hide_border=true&show_owner=true" /></a> -->
  </div>
  <br>
- <div align="center"> <img src="https://github-profile-trophy-fork-two.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&row=1" /> </div>
+ <div align="center"> <img src="https://github-profile-trophy-unserori.vercel.vercel.app/?username=GGBeng1&theme=gruvbox&rank=-C&row=1" /> </div>
    <div>
        <br/>
 <!--          <p align="center">
